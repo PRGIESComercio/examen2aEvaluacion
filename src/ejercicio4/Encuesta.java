@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package examen.ejercicio4;
+package ejercicio4;
 
 import java.util.ArrayList;
 

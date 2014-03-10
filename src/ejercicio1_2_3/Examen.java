@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package examen.ejercicio1_2_3;
+package ejercicio1_2_3;
 
-import examen.ejercicio5.Consumible;
+import ejercicio5.Consumible;
 
 /**
  *
