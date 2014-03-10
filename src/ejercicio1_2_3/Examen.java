@@ -4,8 +4,6 @@
  */
 package ejercicio1_2_3;
 
-import ejercicio5.Consumible;
-
 /**
  *
  * @author david
